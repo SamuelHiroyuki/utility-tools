@@ -1,0 +1,10 @@
+{
+  "name": "utility-tools",
+  "version": "1.0.0",
+  "description": "A package to deal with everyday situations",
+  "main": "src/index.js",
+  "repository": "https://github.com/SamuelHiroyuki/utility-tools",
+  "author": "Samuel Hiroyuki",
+  "license": "MIT",
+  "private": false
+}
